@@ -17,4 +17,7 @@ about them. <br/>
 <br/>
 To cluster the customers, I will use the Partitioning Around Medoids method, I 
 will also attempt to characterize each cluster by its demographics and average customer 
-profile.
+profile.</br>
+</br>
+Dataset can be found here:
+https://www.kaggle.com/datasets/pankajbhowmik/bank-marketing-campaign-subscriptions 

@@ -15,6 +15,6 @@ To compare each method, the Accuracy metric will be used to evaluate the predict
 In the end of the project, I also attempt to cluster the customers by taking into account specific variables 
 about them. <br/>
 <br/>
-To cluster the customers, I will use the **Partitioning Around Medoids** method, I 
+To cluster the customers, I will use the Partitioning Around Medoids method, I 
 will also attempt to characterize each cluster by its demographics and average customer 
 profile.
